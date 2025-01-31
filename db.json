@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "0a43",
+      "name": "Gulsan Kumar",
+      "email": "Gulsan@gmail.com",
+      "number": "8099029332",
+      "address": "greater noida"
+    },
+    
+    {
+      "id": "f10e",
+      "name": "Saurabh Singh",
+      "email": "saurabh@gmail.com"
+    },
+    {
+      "id": "ecc2",
+      "name": "Prasoon ",
+      "email": "prasoon@gmail"
+    },
+    {
+      "id": "23ab",
+      "name": "Rinki",
+      "email": "rinki@gmail.com",
+      "number": "7890765467",
+      "address": "bhagalpur ,bihar , 813209"
+    },
+    {
+      "id": "33bd",
+      "name": "piyush",
+      "email": "piyush@gmail.com",
+      "number": "",
+      "address": "pirpainti , bhagalpur , 813209"
+    }
+  ]
+}
